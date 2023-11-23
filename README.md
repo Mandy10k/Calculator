@@ -43,6 +43,10 @@ The application will be accessible by opening the `index.html` file in your web 
 - **js/:** Contains `script.js` for calculator functionality.
 - **index.html:** HTML file for the calculator interface.
 
+## Deployed Website
+
+The project is also deployed as a website. You can access it [here](https://mandy10k.github.io/Calculator/).
+
 ## Contributing
 
 If you'd like to contribute to the Calculator App, please follow the Contribution Guidelines in the [CONTRIBUTING.md](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) file.
